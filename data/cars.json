@@ -1,0 +1,556 @@
+[
+  {
+    "id": 1,
+    "name": "Koenigsegg",
+    "type": "Sport",
+    "fuelCapacity": "90L",
+    "transmission": "Manual",
+    "passengers": "2 People",
+    "originalPrice": "$99.00/day",
+    "availability": true,
+    "images": {
+      "mainImage": "https://exampleUrl",
+      "sideAngleImages": [
+        "https://res.cloudinary.com/didt1ywys/image/upload/https://exampleUrl",
+        "https://res.cloudinary.com/didt1ywys/image/upload/v1736432374/https://exampleUrl",
+        "https://res.cloudinary.com/didt1ywys/image/upload/v1736432374/https://exampleUrl",
+        "https://res.cloudinary.com/didt1ywys/image/upload/v1736432375/https://exampleUrl"
+      ]
+    },
+    "inventory_details": {
+      "total_units": 10,
+      "units_available": 5
+    },
+
+    "tags": "Popular Cars",
+
+    "reviews": [
+      {
+        "rating": 4.8,
+        "comment": "Absolutely stunning! The leather feels premium.",
+        "user": "Alice Johnson"
+      },
+      {
+        "rating": 4.5,
+        "comment": "Comfortable and stylish, but a bit heavy.",
+        "user": "Michael Brown"
+      }
+    ],
+    "rating": {
+      "average": 4.6,
+      "breakdown": {
+        "1": 2,
+        "2": 5,
+        "3": 30,
+        "4": 120,
+        "5": 180
+      }
+    }
+  },
+  {
+    "id": 2,
+    "name": "Nissan GT-R",
+    "type": "Sport",
+    "fuelCapacity": "80L",
+    "transmission": "Manual",
+    "passengers": "2 People",
+    "price_after_discount": "$80.00/day",
+    "originalPrice": "$90.00/day",
+    "availability": true,
+    "images": {
+      "mainImage": "https://exampleUrl",
+      "sideAngleImages": [
+        "https://res.cloudinary.com/didt1ywys/image/upload/https://exampleUrl",
+        "https://res.cloudinary.com/didt1ywys/image/upload/v1736432374/https://exampleUrl",
+        "https://res.cloudinary.com/didt1ywys/image/upload/v1736432374/https://exampleUrl",
+        "https://res.cloudinary.com/didt1ywys/image/upload/v1736432375/https://exampleUrl"
+      ]
+    },
+    "inventory_details": {
+      "total_units": 5,
+      "units_available": 5
+    },
+    "reviews": [
+      {
+        "rating": 4.8,
+        "comment": "Absolutely stunning! The leather feels premium.",
+        "user": "Alice Johnson"
+      },
+      {
+        "rating": 4.5,
+        "comment": "Comfortable and stylish, but a bit heavy.",
+        "user": "Michael Brown"
+      }
+    ],
+    "rating": {
+      "average": 4.6,
+      "breakdown": {
+        "1": 2,
+        "2": 5,
+        "3": 30,
+        "4": 120,
+        "5": 180
+      }
+    }
+  },
+  {
+    "id": 3,
+    "name": "Rolls-Royce",
+    "type": "Sedan",
+    "fuelCapacity": "70L",
+    "transmission": "Manual",
+    "passengers": "4 People",
+    "originalPrice": "$96.00/day",
+    "availability": true,
+    "images": {
+      "mainImage": "https://exampleUrl",
+      "sideAngleImages": [
+        "https://res.cloudinary.com/didt1ywys/image/upload/https://exampleUrl",
+        "https://res.cloudinary.com/didt1ywys/image/upload/v1736432374/https://exampleUrl",
+        "https://res.cloudinary.com/didt1ywys/image/upload/v1736432374/https://exampleUrl",
+        "https://res.cloudinary.com/didt1ywys/image/upload/v1736432375/https://exampleUrl"
+      ]
+    },
+    "inventory_details": {
+      "total_units": 5,
+      "units_available": 5
+    },
+    "reviews": [
+      {
+        "rating": 4.8,
+        "comment": "Absolutely stunning! The leather feels premium.",
+        "user": "Alice Johnson"
+      },
+      {
+        "rating": 4.5,
+        "comment": "Comfortable and stylish, but a bit heavy.",
+        "user": "Michael Brown"
+      }
+    ],
+    "rating": {
+      "average": 4.6,
+      "breakdown": {
+        "1": 2,
+        "2": 5,
+        "3": 30,
+        "4": 120,
+        "5": 180
+      }
+    }
+  },
+  {
+    "id": 4,
+    "name": "Nissan GT-R",
+    "type": "Sport",
+    "fuelCapacity": "80L",
+    "transmission": "Manual",
+    "passengers": "2 People",
+    "price_after_discount": "$80.00/day",
+    "originalPrice": "$90.00/day",
+    "availability": true,
+    "images": {
+      "mainImage": "https://exampleUrl",
+      "sideAngleImages": [
+        "https://res.cloudinary.com/didt1ywys/image/upload/https://exampleUrl",
+        "https://res.cloudinary.com/didt1ywys/image/upload/v1736432374/https://exampleUrl",
+        "https://res.cloudinary.com/didt1ywys/image/upload/v1736432374/https://exampleUrl",
+        "https://res.cloudinary.com/didt1ywys/image/upload/v1736432375/https://exampleUrl"
+      ]
+    },
+    "inventory_details": {
+      "total_units": 5,
+      "units_available": 5
+    },
+
+    "reviews": [
+      {
+        "rating": 4.8,
+        "comment": "Absolutely stunning! The leather feels premium.",
+        "user": "Alice Johnson"
+      },
+      {
+        "rating": 4.5,
+        "comment": "Comfortable and stylish, but a bit heavy.",
+        "user": "Michael Brown"
+      }
+    ],
+    "rating": {
+      "average": 4.6,
+      "breakdown": {
+        "1": 2,
+        "2": 5,
+        "3": 30,
+        "4": 120,
+        "5": 180
+      }
+    }
+  },
+  {
+    "id": 5,
+    "name": "All New Rush",
+    "type": "SUV",
+    "fuelCapacity": "60L",
+    "transmission": "Manual",
+    "passengers": "4 People",
+    "price_after_disciunt": "$72.00/day",
+    "originalPrice": "$80.00/day",
+    "availability": true,
+    "images": {
+      "mainImage": "https://exampleUrl",
+      "sideAngleImages": [
+        "https://res.cloudinary.com/didt1ywys/image/upload/https://exampleUrl",
+        "https://res.cloudinary.com/didt1ywys/image/upload/v1736432374/https://exampleUrl",
+        "https://res.cloudinary.com/didt1ywys/image/upload/v1736432374/https://exampleUrl",
+        "https://res.cloudinary.com/didt1ywys/image/upload/v1736432375/https://exampleUrl"
+      ]
+    },
+    "inventory_details": {
+      "total_units": 5,
+      "units_available": 5
+    },
+
+    "reviews": [
+      {
+        "rating": 4.8,
+        "comment": "Absolutely stunning! The leather feels premium.",
+        "user": "Alice Johnson"
+      },
+      {
+        "rating": 4.5,
+        "comment": "Comfortable and stylish, but a bit heavy.",
+        "user": "Michael Brown"
+      }
+    ],
+    "rating": {
+      "average": 4.6,
+      "breakdown": {
+        "1": 2,
+        "2": 5,
+        "3": 30,
+        "4": 120,
+        "5": 180
+      }
+    }
+  },
+  {
+    "id": 6,
+    "name": "CR-V",
+    "type": "SUV",
+    "fuelCapacity": "80L",
+    "transmission": "Automatic",
+    "passengers": "6 People",
+    "originalPrice": "$80.00/day",
+    "availability": true,
+    "images": {
+      "mainImage": "https://exampleUrl",
+      "sideAngleImages": [
+        "https://res.cloudinary.com/didt1ywys/image/upload/https://exampleUrl",
+        "https://res.cloudinary.com/didt1ywys/image/upload/v1736432374/https://exampleUrl",
+        "https://res.cloudinary.com/didt1ywys/image/upload/v1736432374/https://exampleUrl",
+        "https://res.cloudinary.com/didt1ywys/image/upload/v1736432375/https://exampleUrl"
+      ]
+    },
+    "inventory_details": {
+      "total_units": 5,
+      "units_available": 5
+    },
+
+    "reviews": [
+      {
+        "rating": 4.8,
+        "comment": "Absolutely stunning! The leather feels premium.",
+        "user": "Alice Johnson"
+      },
+      {
+        "rating": 4.5,
+        "comment": "Comfortable and stylish, but a bit heavy.",
+        "user": "Michael Brown"
+      }
+    ],
+    "rating": {
+      "average": 4.6,
+      "breakdown": {
+        "1": 2,
+        "2": 5,
+        "3": 30,
+        "4": 120,
+        "5": 180
+      }
+    }
+  },
+  {
+    "id": 7,
+    "name": "All New Terios",
+    "type": "SUV",
+    "fuelCapacity": "90L",
+    "transmission": "Manual",
+    "passengers": "6 People",
+    "originalPrice": "$74.00/day",
+    "availability": true,
+    "images": {
+      "mainImage": "https://exampleUrl",
+      "sideAngleImages": [
+        "https://res.cloudinary.com/didt1ywys/image/upload/https://exampleUrl",
+        "https://res.cloudinary.com/didt1ywys/image/upload/v1736432374/https://exampleUrl",
+        "https://res.cloudinary.com/didt1ywys/image/upload/v1736432374/https://exampleUrl",
+        "https://res.cloudinary.com/didt1ywys/image/upload/v1736432375/https://exampleUrl"
+      ]
+    },
+    "inventory_details": {
+      "total_units": 5,
+      "units_available": 5
+    },
+
+    "reviews": [
+      {
+        "rating": 4.8,
+        "comment": "Absolutely stunning! The leather feels premium.",
+        "user": "Alice Johnson"
+      },
+      {
+        "rating": 4.5,
+        "comment": "Comfortable and stylish, but a bit heavy.",
+        "user": "Michael Brown"
+      }
+    ],
+    "rating": {
+      "average": 4.6,
+      "breakdown": {
+        "1": 2,
+        "2": 5,
+        "3": 30,
+        "4": 120,
+        "5": 180
+      }
+    }
+  },
+  {
+    "id": 8,
+    "name": "CR-V",
+    "type": "SUV",
+    "fuelCapacity": "80L",
+    "transmission": "Automatic",
+    "passengers": "6 People",
+    "originalPrice": "$80.00/day",
+    "availability": true,
+    "images": {
+      "mainImage": "https://exampleUrl",
+      "sideAngleImages": [
+        "https://res.cloudinary.com/didt1ywys/image/upload/https://exampleUrl",
+        "https://res.cloudinary.com/didt1ywys/image/upload/v1736432374/https://exampleUrl",
+        "https://res.cloudinary.com/didt1ywys/image/upload/v1736432374/https://exampleUrl",
+        "https://res.cloudinary.com/didt1ywys/image/upload/v1736432375/https://exampleUrl"
+      ]
+    },
+    "inventory_details": {
+      "total_units": 5,
+      "units_available": 5
+    },
+
+    "reviews": [
+      {
+        "rating": 4.8,
+        "comment": "Absolutely stunning! The leather feels premium.",
+        "user": "Alice Johnson"
+      },
+      {
+        "rating": 4.5,
+        "comment": "Comfortable and stylish, but a bit heavy.",
+        "user": "Michael Brown"
+      }
+    ],
+    "rating": {
+      "average": 4.6,
+      "breakdown": {
+        "1": 2,
+        "2": 5,
+        "3": 30,
+        "4": 120,
+        "5": 180
+      }
+    }
+  },
+  {
+    "id": 9,
+    "name": "New MG ZS",
+    "type": "SUV",
+    "fuelCapacity": "80L",
+    "transmission": "Manual",
+    "passengers": "6 People",
+    "originalPrice": "$80.00/day",
+    "availability": true,
+    "images": {
+      "mainImage": "https://exampleUrl",
+      "sideAngleImages": [
+        "https://res.cloudinary.com/didt1ywys/image/upload/https://exampleUrl",
+        "https://res.cloudinary.com/didt1ywys/image/upload/v1736432374/https://exampleUrl",
+        "https://res.cloudinary.com/didt1ywys/image/upload/v1736432374/https://exampleUrl",
+        "https://res.cloudinary.com/didt1ywys/image/upload/v1736432375/https://exampleUrl"
+      ]
+    },
+    "inventory_details": {
+      "total_units": 5,
+      "units_available": 5
+    },
+    "reviews": [
+      {
+        "rating": 4.8,
+        "comment": "Absolutely stunning! The leather feels premium.",
+        "user": "Alice Johnson"
+      },
+      {
+        "rating": 4.5,
+        "comment": "Comfortable and stylish, but a bit heavy.",
+        "user": "Michael Brown"
+      }
+    ],
+    "rating": {
+      "average": 4.6,
+      "breakdown": {
+        "1": 2,
+        "2": 5,
+        "3": 30,
+        "4": 120,
+        "5": 180
+      }
+    }
+  },
+  {
+    "id": 10,
+    "name": "MG ZX Exclusice",
+    "type": "Hatchback",
+    "fuelCapacity": "70L",
+    "transmission": "Manual",
+    "passengers": "4 People",
+    "originalPrice": "$80.00/day",
+    "price_after_discount": "$76.00/day",
+    "availability": true,
+    "images": {
+      "mainImage": "https://exampleUrl",
+      "sideAngleImages": [
+        "https://res.cloudinary.com/didt1ywys/image/upload/https://exampleUrl",
+        "https://res.cloudinary.com/didt1ywys/image/upload/v1736432374/https://exampleUrl",
+        "https://res.cloudinary.com/didt1ywys/image/upload/v1736432374/https://exampleUrl",
+        "https://res.cloudinary.com/didt1ywys/image/upload/v1736432375/https://exampleUrl"
+      ]
+    },
+    "inventory_details": {
+      "total_units": 5,
+      "units_available": 5
+    },
+    "reviews": [
+      {
+        "rating": 4.8,
+        "comment": "Absolutely stunning! The leather feels premium.",
+        "user": "Alice Johnson"
+      },
+      {
+        "rating": 4.5,
+        "comment": "Comfortable and stylish, but a bit heavy.",
+        "user": "Michael Brown"
+      }
+    ],
+    "rating": {
+      "average": 4.6,
+      "breakdown": {
+        "1": 2,
+        "2": 5,
+        "3": 30,
+        "4": 120,
+        "5": 180
+      }
+    }
+  },
+  {
+    "id": 11,
+    "name": "NewMGZS",
+    "type": "SUV",
+    "fuelCapacity": "80L",
+    "transmission": "Manual",
+    "passengers": "6 People",
+    "originalPrice": "$80.00/day",
+
+    "availability": true,
+    "images": {
+      "mainImage": "https://exampleUrl",
+      "sideAngleImages": [
+        "https://res.cloudinary.com/didt1ywys/image/upload/https://exampleUrl",
+        "https://res.cloudinary.com/didt1ywys/image/upload/v1736432374/https://exampleUrl",
+        "https://res.cloudinary.com/didt1ywys/image/upload/v1736432374/https://exampleUrl",
+        "https://res.cloudinary.com/didt1ywys/image/upload/v1736432375/https://exampleUrl"
+      ]
+    },
+    "inventory_details": {
+      "total_units": 5,
+      "units_available": 5
+    },
+    "reviews": [
+      {
+        "rating": 4.8,
+        "comment": "Absolutely stunning! The leather feels premium.",
+        "user": "Alice Johnson"
+      },
+      {
+        "rating": 4.5,
+        "comment": "Comfortable and stylish, but a bit heavy.",
+        "user": "Michael Brown"
+      }
+    ],
+    "rating": {
+      "average": 4.6,
+      "breakdown": {
+        "1": 2,
+        "2": 5,
+        "3": 30,
+        "4": 120,
+        "5": 180
+      }
+    }
+  },
+  {
+    "id": 12,
+    "name": "MG ZX Excite",
+    "type": "Hatchback",
+    "fuelCapacity": "90L",
+    "transmission": "Manual",
+    "passengers": "4 People",
+    "originalPrice": "$74.00/day",
+
+    "availability": true,
+    "images": {
+      "mainImage": "https://exampleUrl",
+      "sideAngleImages": [
+        "https://res.cloudinary.com/didt1ywys/image/upload/https://exampleUrl",
+        "https://res.cloudinary.com/didt1ywys/image/upload/v1736432374/https://exampleUrl",
+        "https://res.cloudinary.com/didt1ywys/image/upload/v1736432374/https://exampleUrl",
+        "https://res.cloudinary.com/didt1ywys/image/upload/v1736432375/https://exampleUrl"
+      ]
+    },
+    "inventory_details": {
+      "total_units": 5,
+      "units_available": 5
+    },
+    "reviews": [
+      {
+        "rating": 4.8,
+        "comment": "Absolutely stunning! The leather feels premium.",
+        "user": "Alice Johnson"
+      },
+      {
+        "rating": 4.5,
+        "comment": "Comfortable and stylish, but a bit heavy.",
+        "user": "Michael Brown"
+      }
+    ],
+    "rating": {
+      "average": 4.6,
+      "breakdown": {
+        "1": 2,
+        "2": 5,
+        "3": 30,
+        "4": 120,
+        "5": 180
+      }
+    }
+  }
+]
