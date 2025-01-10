@@ -9,7 +9,7 @@
     "originalPrice": "$99.00/day",
     "availability": true,
     "images": {
-      "mainImage": "https://exampleUrl",
+      "mainImage": "https://template-7-api.vercel.app/PopularCars/Koenigsegg.png",
       "sideAngleImages": [
         "https://res.cloudinary.com/didt1ywys/image/upload/https://exampleUrl",
         "https://res.cloudinary.com/didt1ywys/image/upload/v1736432374/https://exampleUrl",
@@ -58,7 +58,7 @@
     "originalPrice": "$90.00/day",
     "availability": true,
     "images": {
-      "mainImage": "https://exampleUrl",
+      "mainImage": "https://template-7-api.vercel.app/PopularCars/NissanGT-R.png",
       "sideAngleImages": [
         "https://res.cloudinary.com/didt1ywys/image/upload/https://exampleUrl",
         "https://res.cloudinary.com/didt1ywys/image/upload/v1736432374/https://exampleUrl",
@@ -103,7 +103,7 @@
     "originalPrice": "$96.00/day",
     "availability": true,
     "images": {
-      "mainImage": "https://exampleUrl",
+      "mainImage": "https://template-7-api.vercel.app/PopularCars/RollsRoyce.png",
       "sideAngleImages": [
         "https://res.cloudinary.com/didt1ywys/image/upload/https://exampleUrl",
         "https://res.cloudinary.com/didt1ywys/image/upload/v1736432374/https://exampleUrl",
@@ -149,7 +149,7 @@
     "originalPrice": "$90.00/day",
     "availability": true,
     "images": {
-      "mainImage": "https://exampleUrl",
+      "mainImage": "https://template-7-api.vercel.app/PopularCars/NissanGT-R2.png",
       "sideAngleImages": [
         "https://res.cloudinary.com/didt1ywys/image/upload/https://exampleUrl",
         "https://res.cloudinary.com/didt1ywys/image/upload/v1736432374/https://exampleUrl",
@@ -196,7 +196,7 @@
     "originalPrice": "$80.00/day",
     "availability": true,
     "images": {
-      "mainImage": "https://exampleUrl",
+      "mainImage": "https://template-7-api.vercel.app/RecommendedCars/AllNewRush.png",
       "sideAngleImages": [
         "https://res.cloudinary.com/didt1ywys/image/upload/https://exampleUrl",
         "https://res.cloudinary.com/didt1ywys/image/upload/v1736432374/https://exampleUrl",
@@ -242,7 +242,7 @@
     "originalPrice": "$80.00/day",
     "availability": true,
     "images": {
-      "mainImage": "https://exampleUrl",
+      "mainImage": "https://template-7-api.vercel.app/RecommendedCars/CR-V.png",
       "sideAngleImages": [
         "https://res.cloudinary.com/didt1ywys/image/upload/https://exampleUrl",
         "https://res.cloudinary.com/didt1ywys/image/upload/v1736432374/https://exampleUrl",
@@ -288,7 +288,7 @@
     "originalPrice": "$74.00/day",
     "availability": true,
     "images": {
-      "mainImage": "https://exampleUrl",
+      "mainImage": "https://template-7-api.vercel.app/RecommendedCars/AllNewTerios.png",
       "sideAngleImages": [
         "https://res.cloudinary.com/didt1ywys/image/upload/https://exampleUrl",
         "https://res.cloudinary.com/didt1ywys/image/upload/v1736432374/https://exampleUrl",
@@ -334,7 +334,7 @@
     "originalPrice": "$80.00/day",
     "availability": true,
     "images": {
-      "mainImage": "https://exampleUrl",
+      "mainImage": "https://template-7-api.vercel.app/RecommendedCars/CRV(2).png",
       "sideAngleImages": [
         "https://res.cloudinary.com/didt1ywys/image/upload/https://exampleUrl",
         "https://res.cloudinary.com/didt1ywys/image/upload/v1736432374/https://exampleUrl",
@@ -380,7 +380,7 @@
     "originalPrice": "$80.00/day",
     "availability": true,
     "images": {
-      "mainImage": "https://exampleUrl",
+      "mainImage": "https://template-7-api.vercel.app/RecommendedCars/NewMGZS.png",
       "sideAngleImages": [
         "https://res.cloudinary.com/didt1ywys/image/upload/https://exampleUrl",
         "https://res.cloudinary.com/didt1ywys/image/upload/v1736432374/https://exampleUrl",
@@ -426,7 +426,7 @@
     "price_after_discount": "$76.00/day",
     "availability": true,
     "images": {
-      "mainImage": "https://exampleUrl",
+      "mainImage": "https://template-7-api.vercel.app/RecommendedCars/MGZX_Exc.png",
       "sideAngleImages": [
         "https://res.cloudinary.com/didt1ywys/image/upload/https://exampleUrl",
         "https://res.cloudinary.com/didt1ywys/image/upload/v1736432374/https://exampleUrl",
@@ -472,7 +472,7 @@
 
     "availability": true,
     "images": {
-      "mainImage": "https://exampleUrl",
+      "mainImage": "https://template-7-api.vercel.app/RecommendedCars/NewMGZS2.png",
       "sideAngleImages": [
         "https://res.cloudinary.com/didt1ywys/image/upload/https://exampleUrl",
         "https://res.cloudinary.com/didt1ywys/image/upload/v1736432374/https://exampleUrl",
@@ -518,7 +518,7 @@
 
     "availability": true,
     "images": {
-      "mainImage": "https://exampleUrl",
+      "mainImage": "https://template-7-api.vercel.app/RecommendedCars/MGZX_Excite.png",
       "sideAngleImages": [
         "https://res.cloudinary.com/didt1ywys/image/upload/https://exampleUrl",
         "https://res.cloudinary.com/didt1ywys/image/upload/v1736432374/https://exampleUrl",
