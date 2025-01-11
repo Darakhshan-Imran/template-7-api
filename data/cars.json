@@ -11,10 +11,10 @@
     "images": {
       "mainImage": "https://template-7-api.vercel.app/PopularCars/Koenigsegg.png",
       "sideAngleImages": [
-        "https://res.cloudinary.com/didt1ywys/image/upload/https://exampleUrl",
-        "https://res.cloudinary.com/didt1ywys/image/upload/v1736432374/https://exampleUrl",
-        "https://res.cloudinary.com/didt1ywys/image/upload/v1736432374/https://exampleUrl",
-        "https://res.cloudinary.com/didt1ywys/image/upload/v1736432375/https://exampleUrl"
+        "https://template-7-api.vercel.app/CarsInterior/front.jpeg",
+        "https://template-7-api.vercel.app/CarsInterior/front2.jpeg",
+        "https://template-7-api.vercel.app/CarsInterior/front3.jpeg"
+      
       ]
     },
     "inventory_details": {
@@ -61,10 +61,10 @@
     "images": {
       "mainImage": "https://template-7-api.vercel.app/PopularCars/NissanGT-R.png",
       "sideAngleImages": [
-        "https://res.cloudinary.com/didt1ywys/image/upload/https://exampleUrl",
-        "https://res.cloudinary.com/didt1ywys/image/upload/v1736432374/https://exampleUrl",
-        "https://res.cloudinary.com/didt1ywys/image/upload/v1736432374/https://exampleUrl",
-        "https://res.cloudinary.com/didt1ywys/image/upload/v1736432375/https://exampleUrl"
+        "https://template-7-api.vercel.app/CarsInterior/front4.jpeg",
+        "https://template-7-api.vercel.app/CarsInterior/front5.jpeg",
+        "https://template-7-api.vercel.app/CarsInterior/sitting1.jpeg"
+        
       ]
     },
     "inventory_details": {
@@ -107,10 +107,10 @@
     "images": {
       "mainImage": "https://template-7-api.vercel.app/PopularCars/RollsRoyce.png",
       "sideAngleImages": [
-        "https://res.cloudinary.com/didt1ywys/image/upload/https://exampleUrl",
-        "https://res.cloudinary.com/didt1ywys/image/upload/v1736432374/https://exampleUrl",
-        "https://res.cloudinary.com/didt1ywys/image/upload/v1736432374/https://exampleUrl",
-        "https://res.cloudinary.com/didt1ywys/image/upload/v1736432375/https://exampleUrl"
+        "https://template-7-api.vercel.app/CarsInterior/sitting2.jpeg",
+        "https://template-7-api.vercel.app/CarsInterior/sitting3.jpeg",
+        "https://template-7-api.vercel.app/CarsInterior/sitting4.jpeg"
+
       ]
     },
     "inventory_details": {
@@ -154,10 +154,10 @@
     "images": {
       "mainImage": "https://template-7-api.vercel.app/PopularCars/NissanGT-R2.png",
       "sideAngleImages": [
-        "https://res.cloudinary.com/didt1ywys/image/upload/https://exampleUrl",
-        "https://res.cloudinary.com/didt1ywys/image/upload/v1736432374/https://exampleUrl",
-        "https://res.cloudinary.com/didt1ywys/image/upload/v1736432374/https://exampleUrl",
-        "https://res.cloudinary.com/didt1ywys/image/upload/v1736432375/https://exampleUrl"
+        "https://template-7-api.vercel.app/CarsInterior/sitting5.jpeg",
+        "https://template-7-api.vercel.app/CarsInterior/sitting6.jpeg",
+        "https://template-7-api.vercel.app/CarsInterior/sitting2.jpeg"
+        
       ]
     },
     "inventory_details": {
@@ -202,10 +202,9 @@
     "images": {
       "mainImage": "https://template-7-api.vercel.app/RecommendedCars/AllNewRush.png",
       "sideAngleImages": [
-        "https://res.cloudinary.com/didt1ywys/image/upload/https://exampleUrl",
-        "https://res.cloudinary.com/didt1ywys/image/upload/v1736432374/https://exampleUrl",
-        "https://res.cloudinary.com/didt1ywys/image/upload/v1736432374/https://exampleUrl",
-        "https://res.cloudinary.com/didt1ywys/image/upload/v1736432375/https://exampleUrl"
+       "https://template-7-api.vercel.app/CarsInterior/sitting2.jpeg",
+        "https://template-7-api.vercel.app/CarsInterior/sitting3.jpeg",
+        "https://template-7-api.vercel.app/CarsInterior/sitting4.jpeg"
       ]
     },
     "inventory_details": {
@@ -249,10 +248,9 @@
     "images": {
       "mainImage": "https://template-7-api.vercel.app/RecommendedCars/CR-V.png",
       "sideAngleImages": [
-        "https://res.cloudinary.com/didt1ywys/image/upload/https://exampleUrl",
-        "https://res.cloudinary.com/didt1ywys/image/upload/v1736432374/https://exampleUrl",
-        "https://res.cloudinary.com/didt1ywys/image/upload/v1736432374/https://exampleUrl",
-        "https://res.cloudinary.com/didt1ywys/image/upload/v1736432375/https://exampleUrl"
+        "https://template-7-api.vercel.app/CarsInterior/sitting2.jpeg",
+        "https://template-7-api.vercel.app/CarsInterior/sitting3.jpeg",
+        "https://template-7-api.vercel.app/CarsInterior/sitting4.jpeg"
       ]
     },
     "inventory_details": {
@@ -296,10 +294,9 @@
     "images": {
       "mainImage": "https://template-7-api.vercel.app/RecommendedCars/AllNewTerios.png",
       "sideAngleImages": [
-        "https://res.cloudinary.com/didt1ywys/image/upload/https://exampleUrl",
-        "https://res.cloudinary.com/didt1ywys/image/upload/v1736432374/https://exampleUrl",
-        "https://res.cloudinary.com/didt1ywys/image/upload/v1736432374/https://exampleUrl",
-        "https://res.cloudinary.com/didt1ywys/image/upload/v1736432375/https://exampleUrl"
+        "https://template-7-api.vercel.app/CarsInterior/sitting2.jpeg",
+        "https://template-7-api.vercel.app/CarsInterior/sitting3.jpeg",
+        "https://template-7-api.vercel.app/CarsInterior/sitting4.jpeg"
       ]
     },
     "inventory_details": {
@@ -343,10 +340,9 @@
     "images": {
       "mainImage": "https://template-7-api.vercel.app/RecommendedCars/CRV(2).png",
       "sideAngleImages": [
-        "https://res.cloudinary.com/didt1ywys/image/upload/https://exampleUrl",
-        "https://res.cloudinary.com/didt1ywys/image/upload/v1736432374/https://exampleUrl",
-        "https://res.cloudinary.com/didt1ywys/image/upload/v1736432374/https://exampleUrl",
-        "https://res.cloudinary.com/didt1ywys/image/upload/v1736432375/https://exampleUrl"
+        "https://template-7-api.vercel.app/CarsInterior/sitting2.jpeg",
+        "https://template-7-api.vercel.app/CarsInterior/sitting3.jpeg",
+        "https://template-7-api.vercel.app/CarsInterior/sitting4.jpeg"
       ]
     },
     "inventory_details": {
@@ -390,10 +386,9 @@
     "images": {
       "mainImage": "https://template-7-api.vercel.app/RecommendedCars/NewMGZS.png",
       "sideAngleImages": [
-        "https://res.cloudinary.com/didt1ywys/image/upload/https://exampleUrl",
-        "https://res.cloudinary.com/didt1ywys/image/upload/v1736432374/https://exampleUrl",
-        "https://res.cloudinary.com/didt1ywys/image/upload/v1736432374/https://exampleUrl",
-        "https://res.cloudinary.com/didt1ywys/image/upload/v1736432375/https://exampleUrl"
+        "https://template-7-api.vercel.app/CarsInterior/sitting2.jpeg",
+        "https://template-7-api.vercel.app/CarsInterior/sitting3.jpeg",
+        "https://template-7-api.vercel.app/CarsInterior/sitting4.jpeg"
       ]
     },
     "inventory_details": {
@@ -437,10 +432,9 @@
     "images": {
       "mainImage": "https://template-7-api.vercel.app/RecommendedCars/MGZX_Exc.png",
       "sideAngleImages": [
-        "https://res.cloudinary.com/didt1ywys/image/upload/https://exampleUrl",
-        "https://res.cloudinary.com/didt1ywys/image/upload/v1736432374/https://exampleUrl",
-        "https://res.cloudinary.com/didt1ywys/image/upload/v1736432374/https://exampleUrl",
-        "https://res.cloudinary.com/didt1ywys/image/upload/v1736432375/https://exampleUrl"
+        "https://template-7-api.vercel.app/CarsInterior/sitting2.jpeg",
+        "https://template-7-api.vercel.app/CarsInterior/sitting3.jpeg",
+        "https://template-7-api.vercel.app/CarsInterior/sitting4.jpeg"
       ]
     },
     "inventory_details": {
@@ -483,10 +477,9 @@
     "images": {
       "mainImage": "https://template-7-api.vercel.app/RecommendedCars/NewMGZS2.png",
       "sideAngleImages": [
-        "https://res.cloudinary.com/didt1ywys/image/upload/https://exampleUrl",
-        "https://res.cloudinary.com/didt1ywys/image/upload/v1736432374/https://exampleUrl",
-        "https://res.cloudinary.com/didt1ywys/image/upload/v1736432374/https://exampleUrl",
-        "https://res.cloudinary.com/didt1ywys/image/upload/v1736432375/https://exampleUrl"
+        "https://template-7-api.vercel.app/CarsInterior/sitting2.jpeg",
+        "https://template-7-api.vercel.app/CarsInterior/sitting3.jpeg",
+        "https://template-7-api.vercel.app/CarsInterior/sitting4.jpeg"
       ]
     },
     "inventory_details": {
@@ -529,10 +522,9 @@
     "images": {
       "mainImage": "https://template-7-api.vercel.app/RecommendedCars/MGZX_Excite.png",
       "sideAngleImages": [
-        "https://res.cloudinary.com/didt1ywys/image/upload/https://exampleUrl",
-        "https://res.cloudinary.com/didt1ywys/image/upload/v1736432374/https://exampleUrl",
-        "https://res.cloudinary.com/didt1ywys/image/upload/v1736432374/https://exampleUrl",
-        "https://res.cloudinary.com/didt1ywys/image/upload/v1736432375/https://exampleUrl"
+        "https://template-7-api.vercel.app/CarsInterior/sitting2.jpeg",
+        "https://template-7-api.vercel.app/CarsInterior/sitting3.jpeg",
+        "https://template-7-api.vercel.app/CarsInterior/sitting4.jpeg"
       ]
     },
     "inventory_details": {
