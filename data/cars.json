@@ -57,6 +57,7 @@
     "price_after_discount": "$80.00/day",
     "originalPrice": "$90.00/day",
     "availability": true,
+    "tags": "Popular Cars",
     "images": {
       "mainImage": "https://template-7-api.vercel.app/PopularCars/NissanGT-R.png",
       "sideAngleImages": [
@@ -102,6 +103,7 @@
     "passengers": "4 People",
     "originalPrice": "$96.00/day",
     "availability": true,
+    "tags": "Popular Cars",
     "images": {
       "mainImage": "https://template-7-api.vercel.app/PopularCars/RollsRoyce.png",
       "sideAngleImages": [
@@ -148,6 +150,7 @@
     "price_after_discount": "$80.00/day",
     "originalPrice": "$90.00/day",
     "availability": true,
+    "tags": "Popular Cars",
     "images": {
       "mainImage": "https://template-7-api.vercel.app/PopularCars/NissanGT-R2.png",
       "sideAngleImages": [
@@ -195,6 +198,7 @@
     "price_after_disciunt": "$72.00/day",
     "originalPrice": "$80.00/day",
     "availability": true,
+    "tags": "Recommended Cars",
     "images": {
       "mainImage": "https://template-7-api.vercel.app/RecommendedCars/AllNewRush.png",
       "sideAngleImages": [
@@ -241,6 +245,7 @@
     "passengers": "6 People",
     "originalPrice": "$80.00/day",
     "availability": true,
+    "tags": "Recommended Cars",
     "images": {
       "mainImage": "https://template-7-api.vercel.app/RecommendedCars/CR-V.png",
       "sideAngleImages": [
@@ -287,6 +292,7 @@
     "passengers": "6 People",
     "originalPrice": "$74.00/day",
     "availability": true,
+    "tags": "Recommended Cars",
     "images": {
       "mainImage": "https://template-7-api.vercel.app/RecommendedCars/AllNewTerios.png",
       "sideAngleImages": [
@@ -333,6 +339,7 @@
     "passengers": "6 People",
     "originalPrice": "$80.00/day",
     "availability": true,
+    "tags": "Recommended Cars",
     "images": {
       "mainImage": "https://template-7-api.vercel.app/RecommendedCars/CRV(2).png",
       "sideAngleImages": [
@@ -379,6 +386,7 @@
     "passengers": "6 People",
     "originalPrice": "$80.00/day",
     "availability": true,
+    "tags": "Recommended Cars",
     "images": {
       "mainImage": "https://template-7-api.vercel.app/RecommendedCars/NewMGZS.png",
       "sideAngleImages": [
@@ -425,6 +433,7 @@
     "originalPrice": "$80.00/day",
     "price_after_discount": "$76.00/day",
     "availability": true,
+    "tags": "Recommended Cars",
     "images": {
       "mainImage": "https://template-7-api.vercel.app/RecommendedCars/MGZX_Exc.png",
       "sideAngleImages": [
@@ -469,7 +478,7 @@
     "transmission": "Manual",
     "passengers": "6 People",
     "originalPrice": "$80.00/day",
-
+    "tags": "Recommended Cars",
     "availability": true,
     "images": {
       "mainImage": "https://template-7-api.vercel.app/RecommendedCars/NewMGZS2.png",
@@ -515,7 +524,7 @@
     "transmission": "Manual",
     "passengers": "4 People",
     "originalPrice": "$74.00/day",
-
+    "tags": "Recommended Cars",
     "availability": true,
     "images": {
       "mainImage": "https://template-7-api.vercel.app/RecommendedCars/MGZX_Excite.png",

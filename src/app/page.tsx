@@ -27,7 +27,7 @@ const Home = () => {
   return (
     <div className={`flex flex-col items-center justify-center h-screen space-y-10 bg-gray-900 ${marcellus.className}`}>
       <h1 className="text-2xl md:text-7xl font-bold text-center text-white">
-        THIS API IS CREATED BY <br /> DARAKHSHAN IMRAN
+        THIS API IS CREATED BY <br /> Darakhshan Imran
       </h1>
       <div className="flex items-center justify-between bg-gray-100 rounded-md px-5 py-2 gap-10 mb-8">
         <h1 className=" text-lg md:text-4xl font-bold">Click to Copy The API</h1>
