@@ -164,7 +164,7 @@
     "availability": true,
     "is_favourite": false,
     "description": "NISMO has become the embodiment of Nissan's outstanding performance, inspired by the most unforgiving proving ground, the race track",
-    "tags": "Popular Cars",
+    "tags": ["Popular Cars","Recommended Cars"],
     "images": {
       "mainImage": "https://template-7-api.vercel.app/PopularCars/NissanGT-R2.png",
       "sideAngleImages": [
@@ -213,7 +213,7 @@
     "availability": true,
     "is_favourite": false,
     "description": "A bold and reliable compact SUV with a sleek design, spacious interior, and impressive performance, perfect for urban and adventurous drives.",
-    "tags": "Recommended Cars",
+    "tags": ["Popular Cars","Recommended Cars"],
     "images": {
       "mainImage": "https://template-7-api.vercel.app/RecommendedCars/AllNewRush.png",
       "sideAngleImages": [
@@ -262,7 +262,7 @@
     "availability": true,
     "is_favourite": false,
     "description":"A versatile and spacious SUV offering comfort, style, and advanced safety features for an exceptional driving experience.",
-    "tags": "Recommended Cars",
+    "tags":["Popular Cars","Recommended Cars"],
     "images": {
       "mainImage": "https://template-7-api.vercel.app/RecommendedCars/CR-V.png",
       "sideAngleImages": [
@@ -311,7 +311,7 @@
     "is_favourite": false,
     "description":"A compact, rugged SUV that combines modern design with off-road capability and family-friendly features.",
     "availability": true,
-    "tags": "Recommended Cars",
+    "tags": ["Popular Cars","Recommended Cars"],
     "images": {
       "mainImage": "https://template-7-api.vercel.app/RecommendedCars/AllNewTerios.png",
       "sideAngleImages": [
@@ -360,7 +360,7 @@
     "availability": true,
     "is_favourite":"false",
     "description":"A versatile and spacious SUV offering comfort, style, and advanced safety features for an exceptional driving experience.",
-    "tags": "Recommended Cars",
+    "tags":["Popular Cars","Recommended Cars"],
     "images": {
       "mainImage": "https://template-7-api.vercel.app/RecommendedCars/CRV(2).png",
       "sideAngleImages": [
@@ -409,7 +409,7 @@
     "availability": true,
     "is_favourite":"false",
     "description":"A smart, compact SUV blending stylish design, advanced tech, and practicality for city and long-distance drives.",
-    "tags": "Recommended Cars",
+    "tags":["Popular Cars","Recommended Cars"],
     "images": {
       "mainImage": "https://template-7-api.vercel.app/RecommendedCars/NewMGZS.png",
       "sideAngleImages": [
@@ -457,7 +457,7 @@
     "availability": true,
     "is_favourite":"false",
     "description":"A premium compact SUV with a sporty design, high-tech features, and a luxurious interior for an elevated driving experience.",
-    "tags": "Recommended Cars",
+    "tags": ["Popular Cars","Recommended Cars"],
     "images": {
       "mainImage": "https://template-7-api.vercel.app/RecommendedCars/MGZX_Exc.png",
       "sideAngleImages": [
@@ -505,7 +505,7 @@
     "availability": true,
     "is_favourite":"false",
     "description":"A dynamic SUV featuring cutting-edge technology, a stylish exterior, and efficient performance for everyday drives.",
-    "tags": "Recommended Cars",
+    "tags": ["Popular Cars","Recommended Cars"],
     "images": {
       "mainImage": "https://template-7-api.vercel.app/RecommendedCars/NewMGZS2.png",
       "sideAngleImages": [
@@ -553,7 +553,7 @@
     "availability": true,
     "is_favourite":"false",
     "description":"A dynamic SUV offering a sleek design, advanced features, and an exciting driving experience at an accessible price point.",
-    "tags": "Recommended Cars",
+    "tags": ["Popular Cars","Recommended Cars"],
     "images": {
       "mainImage": "https://template-7-api.vercel.app/RecommendedCars/MGZX_Excite.png",
       "sideAngleImages": [
