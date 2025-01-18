@@ -6,8 +6,11 @@
     "fuelCapacity": "90L",
     "transmission": "Manual",
     "passengers": "2 People",
+    "price_after_discount": null,
     "originalPrice": "$99.00/day",
     "availability": true,
+    "is_favourite": false,
+    "description": "High-performance sports car designed for speed and luxury.",
     "images": {
       "mainImage": "https://template-7-api.vercel.app/PopularCars/Koenigsegg.png",
       "sideAngleImages": [
@@ -21,7 +24,9 @@
       "units_available": 5
     },
 
-    "tags": "Popular Cars",
+    "tags": ["Popular Cars",
+            "Recent Cars"
+    ],
 
     "reviews": [
       {
@@ -38,11 +43,11 @@
     "rating": {
       "average": 4.6,
       "breakdown": {
-        "star_1": 2,
-        "star_2": 5,
-        "star_3": 30,
+        "star_1": 1, 
+        "star_2": 2, 
+        "star_3": 15,
         "star_4": 120,
-        "star_5": 180
+        "star_5": 150
       }
     }
   },
@@ -56,7 +61,12 @@
     "price_after_discount": "$80.00/day",
     "originalPrice": "$90.00/day",
     "availability": true,
-    "tags": "Popular Cars",
+    "is_favourite": false,
+    "description": "NISMO has become the embodiment of Nissan's outstanding performance, inspired by the most unforgiving proving ground, the race track",
+    "tags": ["Popular Cars",
+            "Recent Cars"
+    ],
+
     "images": {
       "mainImage": "https://template-7-api.vercel.app/PopularCars/NissanGT-R.png",
       "sideAngleImages": [
@@ -84,11 +94,11 @@
     "rating": {
       "average": 4.6,
       "breakdown": {
-        "1": 2,
-        "2": 5,
-        "3": 30,
-        "4": 120,
-        "5": 180
+        "star_1": 1, 
+        "star_2": 2, 
+        "star_3": 15,
+        "star_4": 120,
+        "star_5": 150
       }
     }
   },
@@ -100,8 +110,13 @@
     "transmission": "Manual",
     "passengers": "4 People",
     "originalPrice": "$96.00/day",
+    "price_after_discount": null,
     "availability": true,
-    "tags": "Popular Cars",
+    "description":"An epitome of luxury and elegance for an unparalleled driving experience.",
+    "tags": ["Popular Cars",
+            "Recent Cars"
+    ],
+
     "images": {
       "mainImage": "https://template-7-api.vercel.app/PopularCars/RollsRoyce.png",
       "sideAngleImages": [
@@ -129,11 +144,11 @@
     "rating": {
       "average": 4.6,
       "breakdown": {
-        "1": 2,
-        "2": 5,
-        "3": 30,
-        "4": 120,
-        "5": 180
+        "star_1": 1, 
+        "star_2": 2, 
+        "star_3": 15,
+        "star_4": 120,
+        "star_5": 150
       }
     }
   },
@@ -147,6 +162,8 @@
     "price_after_discount": "$80.00/day",
     "originalPrice": "$90.00/day",
     "availability": true,
+    "is_favourite": false,
+    "description": "NISMO has become the embodiment of Nissan's outstanding performance, inspired by the most unforgiving proving ground, the race track",
     "tags": "Popular Cars",
     "images": {
       "mainImage": "https://template-7-api.vercel.app/PopularCars/NissanGT-R2.png",
@@ -176,11 +193,11 @@
     "rating": {
       "average": 4.6,
       "breakdown": {
-        "1": 2,
-        "2": 5,
-        "3": 30,
-        "4": 120,
-        "5": 180
+        "star_1": 1, 
+        "star_2": 2, 
+        "star_3": 15,
+        "star_4": 120,
+        "star_5": 150
       }
     }
   },
@@ -194,6 +211,8 @@
     "price_after_disciunt": "$72.00/day",
     "originalPrice": "$80.00/day",
     "availability": true,
+    "is_favourite": false,
+    "description": "A bold and reliable compact SUV with a sleek design, spacious interior, and impressive performance, perfect for urban and adventurous drives.",
     "tags": "Recommended Cars",
     "images": {
       "mainImage": "https://template-7-api.vercel.app/RecommendedCars/AllNewRush.png",
@@ -223,11 +242,11 @@
     "rating": {
       "average": 4.6,
       "breakdown": {
-        "1": 2,
-        "2": 5,
-        "3": 30,
-        "4": 120,
-        "5": 180
+        "star_1": 1, 
+        "star_2": 2, 
+        "star_3": 15,
+        "star_4": 120,
+        "star_5": 150
       }
     }
   },
@@ -239,7 +258,10 @@
     "transmission": "Automatic",
     "passengers": "6 People",
     "originalPrice": "$80.00/day",
+    "price_after_discount": null,
     "availability": true,
+    "is_favourite": false,
+    "description":"A versatile and spacious SUV offering comfort, style, and advanced safety features for an exceptional driving experience.",
     "tags": "Recommended Cars",
     "images": {
       "mainImage": "https://template-7-api.vercel.app/RecommendedCars/CR-V.png",
@@ -269,11 +291,11 @@
     "rating": {
       "average": 4.6,
       "breakdown": {
-        "1": 2,
-        "2": 5,
-        "3": 30,
-        "4": 120,
-        "5": 180
+        "star_1": 1, 
+        "star_2": 2, 
+        "star_3": 15,
+        "star_4": 120,
+        "star_5": 150
       }
     }
   },
@@ -285,6 +307,9 @@
     "transmission": "Manual",
     "passengers": "6 People",
     "originalPrice": "$74.00/day",
+    "price_after_discount": null,
+    "is_favourite": false,
+    "description":"A compact, rugged SUV that combines modern design with off-road capability and family-friendly features.",
     "availability": true,
     "tags": "Recommended Cars",
     "images": {
@@ -315,11 +340,11 @@
     "rating": {
       "average": 4.6,
       "breakdown": {
-        "1": 2,
-        "2": 5,
-        "3": 30,
-        "4": 120,
-        "5": 180
+        "star_1": 1, 
+        "star_2": 2, 
+        "star_3": 15,
+        "star_4": 120,
+        "star_5": 150
       }
     }
   },
@@ -331,7 +356,10 @@
     "transmission": "Automatic",
     "passengers": "6 People",
     "originalPrice": "$80.00/day",
+    "price_after_discount": null,
     "availability": true,
+    "is_favourite":"false",
+    "description":"A versatile and spacious SUV offering comfort, style, and advanced safety features for an exceptional driving experience.",
     "tags": "Recommended Cars",
     "images": {
       "mainImage": "https://template-7-api.vercel.app/RecommendedCars/CRV(2).png",
@@ -361,11 +389,11 @@
     "rating": {
       "average": 4.6,
       "breakdown": {
-        "1": 2,
-        "2": 5,
-        "3": 30,
-        "4": 120,
-        "5": 180
+        "star_1": 1, 
+        "star_2": 2, 
+        "star_3": 15,
+        "star_4": 120,
+        "star_5": 150
       }
     }
   },
@@ -377,7 +405,10 @@
     "transmission": "Manual",
     "passengers": "6 People",
     "originalPrice": "$80.00/day",
+    "price_after_discount": null,
     "availability": true,
+    "is_favourite":"false",
+    "description":"A smart, compact SUV blending stylish design, advanced tech, and practicality for city and long-distance drives.",
     "tags": "Recommended Cars",
     "images": {
       "mainImage": "https://template-7-api.vercel.app/RecommendedCars/NewMGZS.png",
@@ -406,11 +437,11 @@
     "rating": {
       "average": 4.6,
       "breakdown": {
-        "1": 2,
-        "2": 5,
-        "3": 30,
-        "4": 120,
-        "5": 180
+        "star_1": 1, 
+        "star_2": 2, 
+        "star_3": 15,
+        "star_4": 120,
+        "star_5": 150
       }
     }
   },
@@ -424,6 +455,8 @@
     "originalPrice": "$80.00/day",
     "price_after_discount": "$76.00/day",
     "availability": true,
+    "is_favourite":"false",
+    "description":"A premium compact SUV with a sporty design, high-tech features, and a luxurious interior for an elevated driving experience.",
     "tags": "Recommended Cars",
     "images": {
       "mainImage": "https://template-7-api.vercel.app/RecommendedCars/MGZX_Exc.png",
@@ -452,11 +485,11 @@
     "rating": {
       "average": 4.6,
       "breakdown": {
-        "1": 2,
-        "2": 5,
-        "3": 30,
-        "4": 120,
-        "5": 180
+        "star_1": 1, 
+        "star_2": 2, 
+        "star_3": 15,
+        "star_4": 120,
+        "star_5": 150
       }
     }
   },
@@ -468,8 +501,11 @@
     "transmission": "Manual",
     "passengers": "6 People",
     "originalPrice": "$80.00/day",
-    "tags": "Recommended Cars",
+    "price_after_discount": null,
     "availability": true,
+    "is_favourite":"false",
+    "description":"A dynamic SUV featuring cutting-edge technology, a stylish exterior, and efficient performance for everyday drives.",
+    "tags": "Recommended Cars",
     "images": {
       "mainImage": "https://template-7-api.vercel.app/RecommendedCars/NewMGZS2.png",
       "sideAngleImages": [
@@ -497,11 +533,11 @@
     "rating": {
       "average": 4.6,
       "breakdown": {
-        "1": 2,
-        "2": 5,
-        "3": 30,
-        "4": 120,
-        "5": 180
+        "star_1": 1, 
+        "star_2": 2, 
+        "star_3": 15,
+        "star_4": 120,
+        "star_5": 150
       }
     }
   },
@@ -513,8 +549,11 @@
     "transmission": "Manual",
     "passengers": "4 People",
     "originalPrice": "$74.00/day",
-    "tags": "Recommended Cars",
+    "price_after_discount": null,
     "availability": true,
+    "is_favourite":"false",
+    "description":"A dynamic SUV offering a sleek design, advanced features, and an exciting driving experience at an accessible price point.",
+    "tags": "Recommended Cars",
     "images": {
       "mainImage": "https://template-7-api.vercel.app/RecommendedCars/MGZX_Excite.png",
       "sideAngleImages": [
@@ -542,11 +581,11 @@
     "rating": {
       "average": 4.6,
       "breakdown": {
-        "1": 2,
-        "2": 5,
-        "3": 30,
-        "4": 120,
-        "5": 180
+        "star_1": 1, 
+        "star_2": 2, 
+        "star_3": 15,
+        "star_4": 120,
+        "star_5": 150
       }
     }
   }
